@@ -47,16 +47,12 @@
 
 </div>
 
-> ✏️ *Edit the badges above to match your exact toolkit — add/remove frameworks like TensorFlow, PyTorch, Scikit-learn, OpenCV, Flask, Streamlit, etc. based on what you actually use.*
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SriCharan-23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriCharan-23&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -133,5 +129,5 @@
 </div>
 
 <div align="center">
-<sub>⭐️ From <a href="https://github.com/SriCharan-23">SriCharan-23</a> — Thanks for stopping by!</sub>
+<sub>⭐️ From <a href="https://github.com/SriCharan-23">SriCharan-23</a> — Thanks for visiting!</sub>
 </div>
