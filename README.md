@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing intro -->
-<a href="https://github.com/SriCharan-23">
+<a href="https://github.com/SriCharan-23"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Sri+Charan+%F0%9F%91%8B;Final+Year+BTech+CSE+Student;AI%2FML+Enthusiast+%7C+NLP+%7C+Deep+Learning;Exploring+LLMs+%26+Intelligent+Systems" alt="Typing SVG" />
 </a>
 
