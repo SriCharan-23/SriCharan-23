@@ -72,30 +72,7 @@
 
 ### 🚀 Featured Projects
 
-<div align="center">
 
-<a href="https://github.com/SriCharan-23/Voice-Assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SriCharan-23&repo=Voice-Assistant&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/SriCharan-23/Spam-email-detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SriCharan-23&repo=Spam-email-detection&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/SriCharan-23/stress-level-prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SriCharan-23&repo=stress-level-prediction&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/SriCharan-23/Sonar-Based-Object-Detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SriCharan-23&repo=Sonar-Based-Object-Detection&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/SriCharan-23/AI-Powered-Smart-Incident-Resolution-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SriCharan-23&repo=AI-Powered-Smart-Incident-Resolution-Platform&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/SriCharan-23/Food-Health-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SriCharan-23&repo=Food-Health-App&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
 
 | Project | Description | Tech |
 |---|---|---|
