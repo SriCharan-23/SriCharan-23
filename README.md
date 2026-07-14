@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,flask,mongodb,mysql,git,github,vscode,java,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,flask,mongodb,mysql,git,github,vscode,java,html,css,js,Eclipse" />
 
 </div>
 
@@ -44,6 +44,9 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![Anypoint Studio](https://img.shields.io/badge/Anypoint%20Studio-00A7E0?style=for-the-badge)
+![RAML](https://img.shields.io/badge/RAML-2A2A2A?style=for-the-badge)
+![DataWeave](https://img.shields.io/badge/DataWeave-131A29?style=for-the-badge)
 
 </div>
 
