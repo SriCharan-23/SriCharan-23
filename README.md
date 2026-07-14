@@ -29,10 +29,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,flask,git,github,vscode,java,html,css,js,mysql,mongodb,numpy,pandas,matplotlib" />
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,flask,mongodb,git,github,vscode,java,html,css,js" />
 
 </div>
 
@@ -44,8 +41,13 @@
 ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 
 </div>
+
+> ✏️ *Edit the badges above to match your exact toolkit — add/remove frameworks like TensorFlow, PyTorch, Scikit-learn, OpenCV, Flask, Streamlit, etc. based on what you actually use.*
 
 ---
 
