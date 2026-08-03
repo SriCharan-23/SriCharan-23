@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,flask,mongodb,mysql,git,github,vscode,java,html,css,js,eclipse,idea" />
+<img src="https://skillicons.dev/icons?i=python,sklearn,flask,mongodb,mysql,git,github,vscode,java,html,css,js,eclipse,idea" />
 
 </div>
 
